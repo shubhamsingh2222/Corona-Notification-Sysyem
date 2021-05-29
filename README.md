@@ -4,7 +4,7 @@ This project notifies about the current cases and all the corona related informa
 
 important modules:
 
-pip install player
+pip install plyer
 
 pip install bs4
 
